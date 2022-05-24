@@ -1,4 +1,4 @@
-# Clon Netflix app Document
+# Marvel Consumo de API con Metodo GET 
 
  ### Especificación del servicio: La API usada [Marvel](https://developer.marvel.com/docs).
  ### Casos de uso:
