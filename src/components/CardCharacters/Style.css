@@ -1,0 +1,26 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1;
+  padding-top: 10px;
+}
+.item{ 
+  background: transparent;
+
+
+}
+
+.img{
+ flex-basis: 0;
+ flex-grow: 999;
+ min-width: 60%;
+ height: 100%;
+ object-fit: contain ;
+}
+
+.title{
+  font-size: 16px;
+  text-align: center;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+}
